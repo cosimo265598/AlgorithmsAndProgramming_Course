@@ -1,0 +1,10 @@
+9
+cod122111 Pane_Int Alimentare 1.2 4 12/12/2016
+cod345890 Caffe' Alimentare 1.4 12 4/6/2016
+cod213648 Fallout_3 Games 25.8 5 11/11/2009
+cod325898 Condizionatore ElettroDom 22.3 8 3/1/216
+cod897598 Macchina_cialde ElettroDom 22.3 3 4/9/2016
+cod213654 Call_of_Duty_7 Games 70.35 6 15/11/2016
+cod345673 Carne Alimentare 2.99 9 28/10/216
+cod387626 Arance Alimentare 2.25 7 3/11/2016
+cod124517 USB_pendrive Elettronica 7.89 10 22/10/216

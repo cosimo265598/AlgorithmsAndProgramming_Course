@@ -1,0 +1,6 @@
+4
+cod000011 acqua bevande 1.50 3 12/10/2016
+cod020010 cocacola bevande 2.50 3 18/11/2016
+cod000100 aranciata bevande 5.50 3 08/01/2016
+cod001010 pane alimentari 0.50 3 07/09/2016
+
